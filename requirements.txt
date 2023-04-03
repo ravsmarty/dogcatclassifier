@@ -1,2 +1,15 @@
 matplotlib==3.6.0
 tensorflow==2.10.0
+pandas 
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+-e .
