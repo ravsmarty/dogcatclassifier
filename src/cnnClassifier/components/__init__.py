@@ -2,3 +2,4 @@ from src.cnnClassifier.components.data_ingestion import DataIngestion
 from src.cnnClassifier.components.prepare_base_model import PrepareBaseModel
 from src.cnnClassifier.components.prepare_callback import PrepareCallback
 from src.cnnClassifier.components.training import Training
+from src.cnnClassifier.components.evaluation import Evaluation
